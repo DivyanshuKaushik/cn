@@ -4,6 +4,7 @@
 !*.cpp
 !*.c
 !*.html
+!*.pkt
 !*/
 !.gitignore
 !README.md
