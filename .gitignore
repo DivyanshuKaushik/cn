@@ -5,6 +5,7 @@
 !*.c
 !*.html
 !*.pkt
+!*.txt
 !*/
 !.gitignore
 !README.md
